@@ -1,5 +1,5 @@
 msg: 
-  Hello ...Welcome to config Server...i m again updation without restart config server
+  Hello ...Welcome to config Server...i m again updation without restart config server.............
 server:
   port: 8081
 
